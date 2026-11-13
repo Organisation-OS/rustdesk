@@ -1,0 +1,9 @@
+{
+  "schema": "oos-upstream-pin-v1",
+  "upstream": "https://github.com/rustdesk/rustdesk",
+  "tag": "1.5.3",
+  "commit": "95cca3f661f635b3cc85c04935fe8d96d8f432ef",
+  "license": "AGPL-3.0",
+  "organisationosIntegration": "PREPARATION_ONLY",
+  "windowsSessionReception": false
+}
